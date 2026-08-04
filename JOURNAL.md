@@ -28,3 +28,5 @@ In order to differentiate myself and innovate in the space of hexapod constructi
 I calculated in relation to its body the length of a tiger beetles legs are that the front legs must be about 0.9 body lengths and the middle legs should be around 1.1 body length and the back legs 1.3 body lengths with the total stance being 2.2 body lengths.
 The ratio of segments for each legs lies at roughly in the ratio 1:4:5 -> Coxa, Femur and Tibia Respectively so that means if i wanted a body length of 20 cm this means that my leg length would be  18cm for the front legs 22cm for the centre and 26cm for the hind legs with femur and tibia lengths of 8cm and 10cm for the front and 10cm and 12cm for the centre and 12cm and 14cm for the hind respectively 
 To match the efficiency of a tiger beetle it also has a ground Clearance of 4-5cm 
+
+**Total Time Spent 5 Hours**
