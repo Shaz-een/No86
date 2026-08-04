@@ -29,4 +29,10 @@ I calculated in relation to its body the length of a tiger beetles legs are that
 The ratio of segments for each legs lies at roughly in the ratio 1:4:5 -> Coxa, Femur and Tibia Respectively so that means if i wanted a body length of 20 cm this means that my leg length would be  18cm for the front legs 22cm for the centre and 26cm for the hind legs with femur and tibia lengths of 8cm and 10cm for the front and 10cm and 12cm for the centre and 12cm and 14cm for the hind respectively 
 To match the efficiency of a tiger beetle it also has a ground Clearance of 4-5cm 
 
+<img width="576" height="1024" alt="IMG_0411" src="https://github.com/user-attachments/assets/73364fa6-c141-40d7-9ce1-c7f94c17c134" />
+
+
+
+
+
 **Total Time Spent 5 Hours**
