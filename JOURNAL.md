@@ -31,8 +31,29 @@ To match the efficiency of a tiger beetle it also has a ground Clearance of 4-5c
 
 <img width="576" height="1024" alt="IMG_0411" src="https://github.com/user-attachments/assets/73364fa6-c141-40d7-9ce1-c7f94c17c134" />
 
+**Total Time Spent 4 hours**
 
+# August 5 : Servo Requirements
 
+In order to assign part i first have to calculate the forces and condition under which the parts will operate under.
+First number to be calculated was the estimated length of the leg which i had previously determined to be 18cm 22cm and 26cm now with appropriate length 
+calculated i only need one more factor in order to calculate the moment of force and total torque experienced by the motor.
+I will be using a special carbon fiber filament known as PA12-CF to maintain a low weight profile as the legs of the robot have to account for a maximum of 
+30% of the hexapods weight. Each set of legs have varying weights to most efficiently maximise thrust from the motors
+---
+Part: Weight(g)
+Front: 112.5
+Centre: 157.5
+Rear: 180
+---
+With the chosen filament having a density of 1.06g/cm^3 this provide adequate working volume for the legs.
+Now to calculate the moment i simply multiple the length of the leg by the weight of the leg in kilos and i end up with calculation that require a 
+servo that can handle 2-4.5kg of torque. However these calculation may be exaggeration as in no instance does the movement of the hexapod require the leg to 
+be fully extended out ward. In light of this i chose to make more realistic calculations for the torque by first figuring out the nominal stance moment of the arm at a 4.5cm ground clearance √(.10)^2-(0.045)^2) = 0.174m then i can simply multiply this by mass*g to give me an estimate of the torque that each leg is under to get the final value of 8kg with saftey factor taken into account
+
+<img width="576" height="1024" alt="image" src="https://github.com/user-attachments/assets/82cd7169-1c1f-4e51-9f2c-de49d3dcc18d" />
+
+**Total Time Spent 3 hours**
 
 
 **Total Time Spent 5 Hours**
