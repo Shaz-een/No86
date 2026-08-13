@@ -56,5 +56,24 @@ be fully extended out ward. In light of this i chose to make more realistic calc
 
 <img width="576" height="1024" alt="image" src="https://github.com/user-attachments/assets/82cd7169-1c1f-4e51-9f2c-de49d3dcc18d" />
 
-**Total Time Spent 3 hours**
 
+**Total Time Spent 4 hours**
+
+
+# August 6 : Gait and Movement
+To most effectively maximise the power of the motors and the design the final piece of the mimicry of the tiger beetle has to come together to construct a 
+machine built for speed the movement. By analysing footage of the movement of tiger beetle i have determined the way in which they move ,it uses an 
+alternating tripod gait to ensure stability under high speeds they have two groups of limbs which operate inversely Group A (Consisting of the Front Left 
+,Rear Left and Middle Right) and group B (Front Right ,Rear Right and Middle Left) When group a touches the ground group b lifts and swings forward the 
+beetle alternates between these two tripods at fractions of a second (a full stride cycle occurs in as little as 30–50 milliseconds).Standard hobby servo 
+motors cant reach the torque or speed needed for a 30Hz movement so Brushless motors with planetary gear box would be needed. At High Speeds rigid parts 
+will shatter under the load so flexible carbon fibre would be used and Just as the beetle runs "blind" during its sprint, high-speed robots cannot rely on 
+slow visual camera pipelines mid-step. Instead, they use Central Pattern Generators (CPGs)—pre-programmed, high-frequency mathematical gait cycles—and rely 
+on fast onboard IMUs and tactile switches for rapid trajectory adjustments.
+
+<img width="1538" height="743" alt="Screenshot 2026-08-12 002559" src="https://github.com/user-attachments/assets/99753a35-8af3-4612-95d3-81416ae8624e" />
+<img width="1537" height="705" alt="Screenshot 2026-08-12 002531" src="https://github.com/user-attachments/assets/01751403-f68a-4268-9d1e-e1029b410ce0" />
+<img width="1536" height="751" alt="Screenshot 2026-08-12 002638" src="https://github.com/user-attachments/assets/4f5121cf-4459-427a-a932-6e2c357c4a02" />
+
+
+**Total Time Spent 3 hours**
