@@ -77,3 +77,15 @@ on fast onboard IMUs and tactile switches for rapid trajectory adjustments.
 
 
 **Total Time Spent 3 hours**
+
+# August 14 : Inverse Kinematics Part 1
+
+I have progressed to the point where I need to stat the equation and code behind the systems of the hexapod. I started with watching a couple of YouTube videos for research and recapping basic trigonometric equation and learning why inverse kinematics exists I then started drawing and mapping out the equations. I drew a set of axis in accordance to the right hand set of axis commonly used in inverse kinematics i first labelled the lengths of the segments of the leg in the diagram then drew lines to connect the position where the servos will be placed to and then created equation to calculate theoretical angles and lengths needed to precisely move the legs where they needed to be it was a series of basic cosine and Pythagoras theorem that had to be implemented with a different context in mind. This is only the first section of kinematics and as it stands it is all theoretical equation with no real unit or measurements a true full 3D model of the hexapod will have to be constructed in order to produce any valuable and programmable data 
+
+<img width="641" height="855" alt="image (1)" src="https://github.com/user-attachments/assets/ec58e01b-f6a0-4430-a112-dc82e6d28fe3" />
+
+<img width="641" height="855" alt="image (2)" src="https://github.com/user-attachments/assets/3ca41998-c578-4b11-8267-b59d58276eb9" />
+
+**Total Time Spent 3 hours**
+
+
