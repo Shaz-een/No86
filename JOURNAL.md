@@ -80,7 +80,14 @@ on fast onboard IMUs and tactile switches for rapid trajectory adjustments.
 
 # August 14 : Inverse Kinematics Part 1
 
-I have progressed to the point where I need to stat the equation and code behind the systems of the hexapod. I started with watching a couple of YouTube videos for research and recapping basic trigonometric equation and learning why inverse kinematics exists I then started drawing and mapping out the equations. I drew a set of axis in accordance to the right hand set of axis commonly used in inverse kinematics i first labelled the lengths of the segments of the leg in the diagram then drew lines to connect the position where the servos will be placed to and then created equation to calculate theoretical angles and lengths needed to precisely move the legs where they needed to be it was a series of basic cosine and Pythagoras theorem that had to be implemented with a different context in mind. This is only the first section of kinematics and as it stands it is all theoretical equation with no real unit or measurements a true full 3D model of the hexapod will have to be constructed in order to produce any valuable and programmable data 
+I have progressed to the point where I need to stat the equation and code behind the systems of the hexapod. I started with watching a couple of YouTube 
+videos for research and recapping basic trigonometric equation and learning why inverse kinematics exists I then started drawing and mapping out the 
+equations. I drew a set of axis in accordance to the right hand set of axis commonly used in inverse kinematics i first labelled the lengths of the segments 
+of the leg in the diagram then drew lines to connect the position where the servos will be placed to and then created equation to calculate theoretical 
+angles and lengths needed to precisely move the legs where they needed to be it was a series of basic cosine and Pythagoras theorem that had to be 
+implemented with a different context in mind. This is only the first section of kinematics and as it stands it is all theoretical equation with no real unit 
+or measurements a true full 3D model of the hexapod will have to be constructed in order to produce any valuable and programmable data 
+
 
 <img width="641" height="855" alt="image (1)" src="https://github.com/user-attachments/assets/ec58e01b-f6a0-4430-a112-dc82e6d28fe3" />
 
@@ -88,4 +95,8 @@ I have progressed to the point where I need to stat the equation and code behind
 
 **Total Time Spent 3 hours**
 
+# August 18 : Parts Assignment and List
 
+To construct and build a high speed hexapod that mimics the movement and proportions of a tiger beetle we need to find part that can operate abos 30Hz and high spec hardware that is capable of delivering speed and movement without sacrificing structural integrity all whilst being lightweight.
+The part required for full functionality are : Servo Motors with appropriate torque , An IMU to monitor pitch and roll and position during high speed movement , A microcontroller to control the 18 joint and the inverse kinematics of each of the six legs  
+This is a list of item that i have put together that I believe fit the criteria 
