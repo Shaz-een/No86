@@ -105,8 +105,7 @@ This is a list of item that i have put together that I believe fit the criteria
 | Part Name |  Function | Key Specifications | Quantity | Est. Unit Price (USD) | Total Price (USD) |
 |---|---|---|---|---|---|
 | **Waveshare ST3215 Servo** | Actuation (Coxa, Femur, Tibia) | **Torque:** 30 kg·cm @ 12V Encoder: 12-bit Magnetic (360° position feedback) Control: TTL Serial (1Mbps) Operating Voltage: 6V–12.6V | 18 | ~$18.00 | $324.00 |
-| **Teensy 4.1 Microcontroller** | Master Logic & Trajectory Engine | **CPU:** 600 MHz ARM Cortex-M7
-Memory 8MB Flash / 1MB RAM Calculates 18-joint Inverse Kinematics   | 1 | ~$31.50 | $31.50 |
+| **Teensy 4.1 Microcontroller** | Master Logic & Trajectory Engine | CPU: 600 MHz ARM Cortex-M7 Memory 8MB Flash / 1MB RAM Calculates 18-joint Inverse Kinematics   | 1 | ~$31.50 | $31.50 |
 | **Waveshare Bus Servo Adapter (A)** | Serial Communication Interface | Converts Teensy Hardware UART (TX/RX) to half-duplex single-wire bus; distributes 12V battery power directly. | 1 | ~$5.00 | $5.00 |
 | **MPU-9250 / MPU-6050** | IMU (Orientation & Balance) |  Gyro + Accelerometer to detect pitch/roll and slight wiggles during sprint gaits. | 1 | ~$4.00 | $4.00 |
 | **3S LiPo Battery** | Main Power Source | **Voltage:** 11.1V (12.6V peak) Capacity:** 2200mAh – 3000mAh Discharge Rating:** 50C–75C Direct power to ST3215 servos.* | 1 | ~$22.00 | $22.00 |
