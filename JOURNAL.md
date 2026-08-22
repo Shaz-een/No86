@@ -104,20 +104,12 @@ This is a list of item that i have put together that I believe fit the criteria
 
 | Part Name |  Function | Key Specifications | Quantity | Est. Unit Price (USD) | Total Price (USD) |
 |---|---|---|---|---|---|
-| **Waveshare ST3215 Servo** | Actuation (Coxa, Femur, Tibia) | **Torque:** 30 kg·cm @ 12V
-**Encoder:** 12-bit Magnetic (360° position feedback)
-**Control:** TTL Serial (1Mbps)
-**Operating Voltage:** 6V–12.6V | 18 | ~$18.00 | $324.00 |
-| **ST3215 Build Spares** | Immediate Replacement Servos | Identical spares for mid-test gear or board replacements. | 2 | ~$18.00 | $36.00 |
+| **Waveshare ST3215 Servo** | Actuation (Coxa, Femur, Tibia) | **Torque:** 30 kg·cm @ 12V Encoder: 12-bit Magnetic (360° position feedback) Control: TTL Serial (1Mbps) Operating Voltage: 6V–12.6V | 18 | ~$18.00 | $324.00 |
 | **Teensy 4.1 Microcontroller** | Master Logic & Trajectory Engine | **CPU:** 600 MHz ARM Cortex-M7
-**Memory:** 8MB Flash / 1MB RAM
-*Calculates 18-joint Inverse Kinematics   | 1 | ~$31.50 | $31.50 |
+Memory 8MB Flash / 1MB RAM Calculates 18-joint Inverse Kinematics   | 1 | ~$31.50 | $31.50 |
 | **Waveshare Bus Servo Adapter (A)** | Serial Communication Interface | Converts Teensy Hardware UART (TX/RX) to half-duplex single-wire bus; distributes 12V battery power directly. | 1 | ~$5.00 | $5.00 |
 | **MPU-9250 / MPU-6050** | IMU (Orientation & Balance) |  Gyro + Accelerometer to detect pitch/roll and slight wiggles during sprint gaits. | 1 | ~$4.00 | $4.00 |
-| **3S LiPo Battery** | Main Power Source | **Voltage:** 11.1V (12.6V peak)
-**Capacity:** 2200mAh – 3000mAh
-**Discharge Rating:** 50C–75C
-*Direct power to ST3215 servos.* | 1 | ~$22.00 | $22.00 |
+| **3S LiPo Battery** | Main Power Source | **Voltage:** 11.1V (12.6V peak) Capacity:** 2200mAh – 3000mAh Discharge Rating:** 50C–75C Direct power to ST3215 servos.* | 1 | ~$22.00 | $22.00 |
 | **DC-DC Buck Converter (5V/3A)** | Logic Power Regulation | Step-down converter from 3S LiPo (~12V) down to 5V to power the Teensy 4.1 MCU cleanly. | 1 | ~$3.50 | $3.50 |
 | **Aluminum Servo Arms (25T)** | Joint Coupling | High-strength metal servo horns matching the ST3215 25T spline output. | 18 | ~$0.75 | $13.50 |
 
