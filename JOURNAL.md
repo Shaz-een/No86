@@ -25,7 +25,7 @@ i created the main chassy for all other components to fit inside and on
 
 In order to differentiate myself and innovate in the space of hexapod construction i have opted towards a special design that takes inspiration from nature
 .The tiger beetle is the fastest known land invertebrate and with six legs it fits perfectly and inspiration to a build a fast compact hexapod.
-I calculated in relation to its body the length of a tiger beetles legs are that the front legs must be about 0.9 body lengths and the middle legs should be around 1.1 body length and the back legs 1.3 body lengths with the total stance being 2.2 body lengths.
+I calculated in relation to i ts body the length of a tiger beetles legs are that the front legs must be about 0.9 body lengths and the middle legs should be around 1.1 body length and the back legs 1.3 body lengths with the total stance being 2.2 body lengths.
 The ratio of segments for each legs lies at roughly in the ratio 1:4:5 -> Coxa, Femur and Tibia Respectively so that means if i wanted a body length of 20 cm this means that my leg length would be  18cm for the front legs 22cm for the centre and 26cm for the hind legs with femur and tibia lengths of 8cm and 10cm for the front and 10cm and 12cm for the centre and 12cm and 14cm for the hind respectively 
 To match the efficiency of a tiger beetle it also has a ground Clearance of 4-5cm 
 
@@ -113,3 +113,6 @@ This is a list of item that i have put together that I believe fit the criteria
 | **Aluminum Servo Arms (25T)** | Joint Coupling | High-strength metal servo horns matching the ST3215 25T spline output. | 18 | ~$0.75 | $13.50 |
 
 
+I specifically chose the teensy 4.1 as it feature a 600mHz ARM Cortex-M7 which is fast enough to process body orientation and trajectory without delay it also has the capability to process trigonometric equation natively in Hardware allowing for easy calculation of the inverse kinematics of the 18 servos.
+
+**Total Time Spent 3 hours**
