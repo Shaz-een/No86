@@ -116,3 +116,7 @@ This is a list of item that i have put together that I believe fit the criteria
 I specifically chose the teensy 4.1 as it feature a 600mHz ARM Cortex-M7 which is fast enough to process body orientation and trajectory without delay it also has the capability to process trigonometric equation natively in Hardware allowing for easy calculation of the inverse kinematics of the 18 servos.
 
 **Total Time Spent 3 hours**
+
+# 14 August :Body Design
+
+This is the first part in a process of designing a body for the hexapod on paper to then 3d model I took inspiration from the biomechanics and aerodynamics of the shell of a tiger beetle I also took inspiration from the body plan and layout of its six legs as position and orientation will be crucial in making the hexapod as mobile and fast as possible. For the more aesthetic design choices I pulled from the 86 animae Juggernauts and their design and details were taken into account . To make a light weight chassis I used Geodesic patterns to reduce the material needed thus decreasing the weight of the frame rounding the edges of the triangles also gave it a sleek modern appearance 
