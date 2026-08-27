@@ -119,4 +119,12 @@ I specifically chose the teensy 4.1 as it feature a 600mHz ARM Cortex-M7 which i
 
 # 14 August :Body Design
 
-This is the first part in a process of designing a body for the hexapod on paper to then 3d model I took inspiration from the biomechanics and aerodynamics of the shell of a tiger beetle I also took inspiration from the body plan and layout of its six legs as position and orientation will be crucial in making the hexapod as mobile and fast as possible. For the more aesthetic design choices I pulled from the 86 animae Juggernauts and their design and details were taken into account . To make a light weight chassis I used Geodesic patterns to reduce the material needed thus decreasing the weight of the frame rounding the edges of the triangles also gave it a sleek modern appearance 
+This is the first part in a process of designing a body for the hexapod on paper to then 3d model I took inspiration from the biomechanics and aerodynamics 
+of the shell of a tiger beetle I also took inspiration from the body plan and layout of its six legs as position and orientation will be crucial in making 
+the hexapod as mobile and fast as possible. For the more aesthetic design choices I pulled from the 86 animae Juggernauts and their design and details were 
+taken into account . Measurements were then given finally making the hexapod 20cm in length and 6cm wide and tall  
+To make a light weight chassis I used Geodesic patterns to reduce the material needed thus decreasing the weight of the frame rounding 
+the edges of the triangles also gave it a sleek modern appearance. To Maximise speed and efficiency and agility especially since i am aiming for high stride frequencies keeping the extremities as light as possible is mandatory as mounting the motor closer to the chassis lowers the rotational inertia and torque needed to move the leg ,furthermore it lowers the centre of mass keeping the machine significantly more stable.
+I also then designed a new mechanical linkage to transfer movement between the servo and its corresponding joints.
+
+
