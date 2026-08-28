@@ -127,4 +127,7 @@ To make a light weight chassis I used Geodesic patterns to reduce the material n
 the edges of the triangles also gave it a sleek modern appearance. To Maximise speed and efficiency and agility especially since i am aiming for high stride frequencies keeping the extremities as light as possible is mandatory as mounting the motor closer to the chassis lowers the rotational inertia and torque needed to move the leg ,furthermore it lowers the centre of mass keeping the machine significantly more stable.
 I also then designed a new mechanical linkage to transfer movement between the servo and its corresponding joints.
 
+<img width="544" height="725" alt="IMG_0448" src="https://github.com/user-attachments/assets/5a698b03-393d-4c5b-b0a4-028a916c4d88" />
+<img width="544" height="725" alt="IMG_0447" src="https://github.com/user-attachments/assets/bcc65f75-cb21-45ab-987e-0b8a079035b2" />
+<img width="544" height="725" alt="IMG_0441" src="https://github.com/user-attachments/assets/6f721e10-7f37-4c9a-99d1-1e12fe5632d2" />
 
