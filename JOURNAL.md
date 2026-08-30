@@ -117,7 +117,7 @@ I specifically chose the teensy 4.1 as it feature a 600mHz ARM Cortex-M7 which i
 
 **Total Time Spent 3 hours**
 
-# 14 August :Body Design
+# 19 August :Body Design
 
 This is the first part in a process of designing a body for the hexapod on paper to then 3d model I took inspiration from the biomechanics and aerodynamics 
 of the shell of a tiger beetle I also took inspiration from the body plan and layout of its six legs as position and orientation will be crucial in making 
@@ -131,3 +131,19 @@ I also then designed a new mechanical linkage to transfer movement between the s
 <img width="544" height="725" alt="IMG_0447" src="https://github.com/user-attachments/assets/bcc65f75-cb21-45ab-987e-0b8a079035b2" />
 <img width="544" height="725" alt="IMG_0441" src="https://github.com/user-attachments/assets/6f721e10-7f37-4c9a-99d1-1e12fe5632d2" />
 
+
+# 20 August :3d Body Modelling 
+
+
+
+
+
+
+
+# 21 August :3d Body Modelling 
+
+This is the part where i turn 2d sketches into 3d models using the drawing as guides and reference i mapped out dimension and used on shaped sketch feature to make 3 separate sketches of the 3 different axis. i first started with the rudimentary outline using basic shapes to make up the fundamental shape then used the outline and Bezier the mark up the finer details i then proceeded to extrude the the shapes outward making them 3d the used the intersect of the 3 extrusion of the different axis as the final top part of the model i now need to layer in the gyroid pattern on the surface and complete the second half of the body as this is only the lid section that will attach to the lower segment .
+
+<img width="832" height="647" alt="image" src="https://github.com/user-attachments/assets/3f73ec7f-1d50-4a87-92c4-e498a6565095" />
+
+**Total Time Spent 2 hours**
