@@ -133,11 +133,18 @@ I also then designed a new mechanical linkage to transfer movement between the s
 
 **Total Time Spent 2 hours**
 
-# 20 August :3d Body Modelling 
+# 20 August : Body reorganisation 
+
+To properly distribute weight and movement force certain components had to be reorganised for a more refined mechanical system. Some of these changes 
+include a movement of the servo responsible for the movement of the tibia - femur joint lower down the leg to reduce the torque needed to rotate the leg 
+entirely so mechanical linkages will be used to control the joint from a distance were torque is much less significant and impeding .This was calculated 
+using the equation for rotational equivalent of mass (I = mr^2) where I is moment of inertia and m is mass and r is radius and by moving the servo for the 
+joint lower it decreases the moment of inertia therefore leading to less torque needed to rotate the leg .
+Second Adjustment even though it was slightly hinted at through design was a 45 degree angle on which the rear and frontal legs would be mounted at leading 
+to a wider range of motion and less interference 
 
 
-
-
+**Total Time Spent 1 hours**
 
 
 
@@ -148,3 +155,5 @@ This is the part where i turn 2d sketches into 3d models using the drawing as gu
 <img width="832" height="647" alt="image" src="https://github.com/user-attachments/assets/3f73ec7f-1d50-4a87-92c4-e498a6565095" />
 
 **Total Time Spent 2 hours**
+
+# 21 August :3d Body Modelling 
