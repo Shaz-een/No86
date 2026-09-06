@@ -157,3 +157,4 @@ This is the part where i turn 2d sketches into 3d models using the drawing as gu
 **Total Time Spent 2 hours**
 
 # 21 August :3d Body Modelling 
+
