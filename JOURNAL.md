@@ -158,3 +158,8 @@ This is the part where i turn 2d sketches into 3d models using the drawing as gu
 
 # 21 August :3d Body Modelling 
 
+
+
+# 21 August :3d Body Modelling 
+
+Now that the bottom and top is arts of the hexapod have been built I now need to optimise the design by cutting unnecessary weight by cutting the upper shell into a geometric cycloidal design the further reduce the weight thus letting the notes operate more efficiently with less work . I first started by cutting a hexagonal hole and n the centre of the lid then reappeared the feature along the spine of the model I then cut holes around the edge and the rear and front of the model then I used the fillet tool tho smooth out the edges to obtain a more appealing and aesthetically pleasing look the hope in the lid will also serve to dissipate heat from the motors.during operation I then use a second model with the desirable volume for internal space and using Boolean subtracted that from the lid achievement by a final model with a 1cm approximate thickness
