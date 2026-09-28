@@ -168,3 +168,11 @@ Now that the overall frame of the upper section is completed and now need to mak
 Now that the bottom and top is arts of the hexapod have been built I now need to optimise the design by cutting unnecessary weight by cutting the upper shell into a geometric cycloidal design the further reduce the weight thus letting the notes operate more efficiently with less work . I first started by cutting a hexagonal hole and n the centre of the lid then reappeared the feature along the spine of the model I then cut holes around the edge and the rear and front of the model then I used the fillet tool tho smooth out the edges to obtain a more appealing and aesthetically pleasing look the hope in the lid will also serve to dissipate heat from the motors.during operation I then use a second model with the desirable volume for internal space and using Boolean subtracted that from the lid achievement by a final model with a 1cm approximate thickness
 
 **Total Time Spent 3 hours**
+
+
+
+# 1st September : Frame Reorganisation 
+
+Started 3-D modelling for part implementation by first writing a noting down size of each individual part then creating a sketch and extruding a model for each part with accurate dimensions then remodelled the total hexapod frame to make sure there is enough space for each part to be fitted into I then realised that there wasn’t enough space for the majority of the components including the motors to fit comfortably within the frame so a remodelling hat to take place so the upper lid portion had to be removed and entirely new support frame had to be made on top of the lower lid I use a triangular geometric pattern to ensure the supports were structurally stable then used the Boolean tool to cut out a section of the frame for the motors to fit into then use the models for the other parts to create suitable sections and cut out for the parts to fit into there after I rounded out the edges of the part improving the aesthetics and overall look of the part making it look more polished and finished. I then cut grooves into the upper section of the supports to allow the wires of the motor to seamlessly connect to each other without problem I also cut out 45° angled cutout to accommodate for the motors at the front and the back so the wires do not cut themselves or wear down overtime due to sharp corners 
+
+**Total Time Spent 3 Hours **
